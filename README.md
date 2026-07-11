@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nilakshi15/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Nilakshi15/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Nilakshi15/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nilakshi15/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Nilakshi15/Leetcode/tree/master/0155-min-stack) |
 | [0402-remove-k-digits](https://github.com/Nilakshi15/Leetcode/tree/master/0402-remove-k-digits) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Nilakshi15/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Nilakshi15/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/Nilakshi15/Leetcode/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/Nilakshi15/Leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Nilakshi15/Leetcode/tree/master/0853-car-fleet) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nilakshi15/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Nilakshi15/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Nilakshi15/Leetcode/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Nilakshi15/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Nilakshi15/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nilakshi15/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nilakshi15/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
