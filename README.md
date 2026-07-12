@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Nilakshi15/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nilakshi15/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Nilakshi15/Leetcode/tree/master/0567-permutation-in-string) |
+| [0981-time-based-key-value-store](https://github.com/Nilakshi15/Leetcode/tree/master/0981-time-based-key-value-store) |
 ## Stack
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Nilakshi15/Leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Nilakshi15/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/Nilakshi15/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0981-time-based-key-value-store](https://github.com/Nilakshi15/Leetcode/tree/master/0981-time-based-key-value-store) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nilakshi15/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Nilakshi15/Leetcode/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Nilakshi15/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [0981-time-based-key-value-store](https://github.com/Nilakshi15/Leetcode/tree/master/0981-time-based-key-value-store) |
 ## Sliding Window
 |  |
 | ------- |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Nilakshi15/Leetcode/tree/master/0155-min-stack) |
+| [0981-time-based-key-value-store](https://github.com/Nilakshi15/Leetcode/tree/master/0981-time-based-key-value-store) |
 ## Math
 |  |
 | ------- |
