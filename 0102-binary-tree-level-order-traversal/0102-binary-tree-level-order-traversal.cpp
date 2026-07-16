@@ -16,7 +16,6 @@ public:
 
         vector<vector<int>> ans;
 
-        // Empty tree
         if (root == NULL)
             return ans;
 
