@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Nilakshi15/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/Nilakshi15/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Nilakshi15/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Nilakshi15/Leetcode/tree/master/0155-min-stack) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Nilakshi15/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Nilakshi15/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Nilakshi15/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0981-time-based-key-value-store](https://github.com/Nilakshi15/Leetcode/tree/master/0981-time-based-key-value-store) |
 ## Math
 |  |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Nilakshi15/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Nilakshi15/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Nilakshi15/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Nilakshi15/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Nilakshi15/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Nilakshi15/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Nilakshi15/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Nilakshi15/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Nilakshi15/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Nilakshi15/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -299,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Nilakshi15/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Nilakshi15/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Nilakshi15/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Nilakshi15/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Trie
 |  |
 | ------- |
@@ -308,4 +313,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/Nilakshi15/Leetcode/tree/master/0212-word-search-ii) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Nilakshi15/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
