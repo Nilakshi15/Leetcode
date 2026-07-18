@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Nilakshi15/Leetcode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Nilakshi15/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0561-array-partition](https://github.com/Nilakshi15/Leetcode/tree/master/0561-array-partition) |
+| [0621-task-scheduler](https://github.com/Nilakshi15/Leetcode/tree/master/0621-task-scheduler) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Nilakshi15/Leetcode/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/Nilakshi15/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0561-array-partition](https://github.com/Nilakshi15/Leetcode/tree/master/0561-array-partition) |
+| [0621-task-scheduler](https://github.com/Nilakshi15/Leetcode/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/Nilakshi15/Leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Nilakshi15/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/Nilakshi15/Leetcode/tree/master/0739-daily-temperatures) |
@@ -86,12 +88,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Nilakshi15/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nilakshi15/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0561-array-partition](https://github.com/Nilakshi15/Leetcode/tree/master/0561-array-partition) |
+| [0621-task-scheduler](https://github.com/Nilakshi15/Leetcode/tree/master/0621-task-scheduler) |
 | [0853-car-fleet](https://github.com/Nilakshi15/Leetcode/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/Nilakshi15/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Counting Sort
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Nilakshi15/Leetcode/tree/master/0561-array-partition) |
+| [0621-task-scheduler](https://github.com/Nilakshi15/Leetcode/tree/master/0621-task-scheduler) |
 ## Binary Search
 |  |
 | ------- |
@@ -147,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Nilakshi15/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nilakshi15/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Nilakshi15/Leetcode/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/Nilakshi15/Leetcode/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/Nilakshi15/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0981-time-based-key-value-store](https://github.com/Nilakshi15/Leetcode/tree/master/0981-time-based-key-value-store) |
 ## Sliding Window
@@ -170,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Nilakshi15/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nilakshi15/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Nilakshi15/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0621-task-scheduler](https://github.com/Nilakshi15/Leetcode/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nilakshi15/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/Nilakshi15/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Nilakshi15/Leetcode/tree/master/1046-last-stone-weight) |
