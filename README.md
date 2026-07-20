@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Nilakshi15/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Nilakshi15/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Nilakshi15/Leetcode/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/Nilakshi15/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Nilakshi15/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/Nilakshi15/Leetcode/tree/master/0212-word-search-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Nilakshi15/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Nilakshi15/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nilakshi15/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/Nilakshi15/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0410-split-array-largest-sum](https://github.com/Nilakshi15/Leetcode/tree/master/0410-split-array-largest-sum) |
 ## Prefix Sum
 |  |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Nilakshi15/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Nilakshi15/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Nilakshi15/Leetcode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Nilakshi15/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/Nilakshi15/Leetcode/tree/master/0212-word-search-ii) |
 ## Data Stream
 |  |
