@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Nilakshi15/Leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Nilakshi15/Leetcode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Nilakshi15/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Nilakshi15/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Nilakshi15/Leetcode/tree/master/0125-valid-palindrome) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Nilakshi15/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/Nilakshi15/Leetcode/tree/master/0212-word-search-ii) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Nilakshi15/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Nilakshi15/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Nilakshi15/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Nilakshi15/Leetcode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nilakshi15/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Nilakshi15/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Nilakshi15/Leetcode/tree/master/0090-subsets-ii) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Nilakshi15/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Nilakshi15/Leetcode/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/Nilakshi15/Leetcode/tree/master/0212-word-search-ii) |
 ## Interactive
 |  |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Nilakshi15/Leetcode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/Nilakshi15/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Nilakshi15/Leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Nilakshi15/Leetcode/tree/master/0110-balanced-binary-tree) |
@@ -346,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Nilakshi15/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Nilakshi15/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Nilakshi15/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Nilakshi15/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Nilakshi15/Leetcode/tree/master/0090-subsets-ii) |
 | [0212-word-search-ii](https://github.com/Nilakshi15/Leetcode/tree/master/0212-word-search-ii) |
 ## Data Stream
