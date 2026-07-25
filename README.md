@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nilakshi15/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nilakshi15/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nilakshi15/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0198-house-robber](https://github.com/Nilakshi15/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Nilakshi15/Leetcode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/Nilakshi15/Leetcode/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nilakshi15/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Nilakshi15/Leetcode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nilakshi15/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Nilakshi15/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0198-house-robber](https://github.com/Nilakshi15/Leetcode/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/Nilakshi15/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/Nilakshi15/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Prefix Sum
