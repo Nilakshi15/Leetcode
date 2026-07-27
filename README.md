@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Nilakshi15/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/Nilakshi15/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Nilakshi15/Leetcode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Nilakshi15/Leetcode/tree/master/0091-decode-ways) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nilakshi15/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nilakshi15/Leetcode/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/Nilakshi15/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Nilakshi15/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nilakshi15/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0973-k-closest-points-to-origin](https://github.com/Nilakshi15/Leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -463,4 +465,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Nilakshi15/Leetcode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Nilakshi15/Leetcode/tree/master/0139-word-break) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Nilakshi15/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
