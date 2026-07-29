@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Nilakshi15/Leetcode/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/Nilakshi15/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Nilakshi15/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0494-target-sum](https://github.com/Nilakshi15/Leetcode/tree/master/0494-target-sum) |
 | [0561-array-partition](https://github.com/Nilakshi15/Leetcode/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/Nilakshi15/Leetcode/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/Nilakshi15/Leetcode/tree/master/0695-max-area-of-island) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Nilakshi15/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Nilakshi15/Leetcode/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/Nilakshi15/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0494-target-sum](https://github.com/Nilakshi15/Leetcode/tree/master/0494-target-sum) |
 | [0647-palindromic-substrings](https://github.com/Nilakshi15/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/Nilakshi15/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/Nilakshi15/Leetcode/tree/master/1143-longest-common-subsequence) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Nilakshi15/Leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Nilakshi15/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/Nilakshi15/Leetcode/tree/master/0212-word-search-ii) |
+| [0494-target-sum](https://github.com/Nilakshi15/Leetcode/tree/master/0494-target-sum) |
 ## Data Stream
 |  |
 | ------- |
