@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nilakshi15/Leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Nilakshi15/Leetcode/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/Nilakshi15/Leetcode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Nilakshi15/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0561-array-partition](https://github.com/Nilakshi15/Leetcode/tree/master/0561-array-partition) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Nilakshi15/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Nilakshi15/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Nilakshi15/Leetcode/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/Nilakshi15/Leetcode/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Nilakshi15/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Nilakshi15/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Nilakshi15/Leetcode/tree/master/0078-subsets) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Nilakshi15/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/Nilakshi15/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Nilakshi15/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Nilakshi15/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Nilakshi15/Leetcode/tree/master/0072-edit-distance) |
