@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nilakshi15/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Nilakshi15/Leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Nilakshi15/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0763-partition-labels](https://github.com/Nilakshi15/Leetcode/tree/master/0763-partition-labels) |
 | [0981-time-based-key-value-store](https://github.com/Nilakshi15/Leetcode/tree/master/0981-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/Nilakshi15/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Stack
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Nilakshi15/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0561-array-partition](https://github.com/Nilakshi15/Leetcode/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/Nilakshi15/Leetcode/tree/master/0621-task-scheduler) |
+| [0763-partition-labels](https://github.com/Nilakshi15/Leetcode/tree/master/0763-partition-labels) |
 | [0826-most-profit-assigning-work](https://github.com/Nilakshi15/Leetcode/tree/master/0826-most-profit-assigning-work) |
 ## Monotonic Stack
 |  |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Nilakshi15/Leetcode/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Nilakshi15/Leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Nilakshi15/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0763-partition-labels](https://github.com/Nilakshi15/Leetcode/tree/master/0763-partition-labels) |
 | [0825-friends-of-appropriate-ages](https://github.com/Nilakshi15/Leetcode/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/Nilakshi15/Leetcode/tree/master/0826-most-profit-assigning-work) |
 ## Hash Table
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nilakshi15/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Nilakshi15/Leetcode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Nilakshi15/Leetcode/tree/master/0621-task-scheduler) |
+| [0763-partition-labels](https://github.com/Nilakshi15/Leetcode/tree/master/0763-partition-labels) |
 | [0904-fruit-into-baskets](https://github.com/Nilakshi15/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0981-time-based-key-value-store](https://github.com/Nilakshi15/Leetcode/tree/master/0981-time-based-key-value-store) |
 ## Sliding Window
