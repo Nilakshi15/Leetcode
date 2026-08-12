@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Nilakshi15/Leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Nilakshi15/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/Nilakshi15/Leetcode/tree/master/0763-partition-labels) |
+| [0821-shortest-distance-to-a-character](https://github.com/Nilakshi15/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0981-time-based-key-value-store](https://github.com/Nilakshi15/Leetcode/tree/master/0981-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/Nilakshi15/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Stack
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Nilakshi15/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/Nilakshi15/Leetcode/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Nilakshi15/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0821-shortest-distance-to-a-character](https://github.com/Nilakshi15/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0825-friends-of-appropriate-ages](https://github.com/Nilakshi15/Leetcode/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/Nilakshi15/Leetcode/tree/master/0826-most-profit-assigning-work) |
 | [0853-car-fleet](https://github.com/Nilakshi15/Leetcode/tree/master/0853-car-fleet) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Nilakshi15/Leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Nilakshi15/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/Nilakshi15/Leetcode/tree/master/0763-partition-labels) |
+| [0821-shortest-distance-to-a-character](https://github.com/Nilakshi15/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0825-friends-of-appropriate-ages](https://github.com/Nilakshi15/Leetcode/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/Nilakshi15/Leetcode/tree/master/0826-most-profit-assigning-work) |
 ## Hash Table
