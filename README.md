@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Nilakshi15/Leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Nilakshi15/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/Nilakshi15/Leetcode/tree/master/0763-partition-labels) |
+| [0777-swap-adjacent-in-lr-string](https://github.com/Nilakshi15/Leetcode/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0809-expressive-words](https://github.com/Nilakshi15/Leetcode/tree/master/0809-expressive-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/Nilakshi15/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0981-time-based-key-value-store](https://github.com/Nilakshi15/Leetcode/tree/master/0981-time-based-key-value-store) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Nilakshi15/Leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Nilakshi15/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/Nilakshi15/Leetcode/tree/master/0763-partition-labels) |
+| [0777-swap-adjacent-in-lr-string](https://github.com/Nilakshi15/Leetcode/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0809-expressive-words](https://github.com/Nilakshi15/Leetcode/tree/master/0809-expressive-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/Nilakshi15/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0825-friends-of-appropriate-ages](https://github.com/Nilakshi15/Leetcode/tree/master/0825-friends-of-appropriate-ages) |
