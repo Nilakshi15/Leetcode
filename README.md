@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Nilakshi15/Leetcode/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/Nilakshi15/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Nilakshi15/Leetcode/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/Nilakshi15/Leetcode/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nilakshi15/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Nilakshi15/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0973-k-closest-points-to-origin](https://github.com/Nilakshi15/Leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/Nilakshi15/Leetcode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Nilakshi15/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Nilakshi15/Leetcode/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/Nilakshi15/Leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Nilakshi15/Leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Nilakshi15/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/Nilakshi15/Leetcode/tree/master/0212-word-search-ii) |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Nilakshi15/Leetcode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/Nilakshi15/Leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Nilakshi15/Leetcode/tree/master/0090-subsets-ii) |
 ## Union-Find
 |  |
