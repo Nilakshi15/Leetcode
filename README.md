@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/Nilakshi15/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/Nilakshi15/Leetcode/tree/master/0212-word-search-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Nilakshi15/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0306-additive-number](https://github.com/Nilakshi15/Leetcode/tree/master/0306-additive-number) |
 | [0344-reverse-string](https://github.com/Nilakshi15/Leetcode/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/Nilakshi15/Leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nilakshi15/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -497,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/Nilakshi15/Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/Nilakshi15/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/Nilakshi15/Leetcode/tree/master/0212-word-search-ii) |
+| [0306-additive-number](https://github.com/Nilakshi15/Leetcode/tree/master/0306-additive-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Nilakshi15/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0494-target-sum](https://github.com/Nilakshi15/Leetcode/tree/master/0494-target-sum) |
 ## Data Stream
