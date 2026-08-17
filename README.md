@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Nilakshi15/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Nilakshi15/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/Nilakshi15/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0837-new-21-game](https://github.com/Nilakshi15/Leetcode/tree/master/0837-new-21-game) |
 | [1143-longest-common-subsequence](https://github.com/Nilakshi15/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Prefix Sum
 |  |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nilakshi15/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Nilakshi15/Leetcode/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/Nilakshi15/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0837-new-21-game](https://github.com/Nilakshi15/Leetcode/tree/master/0837-new-21-game) |
 | [0904-fruit-into-baskets](https://github.com/Nilakshi15/Leetcode/tree/master/0904-fruit-into-baskets) |
 ## Queue
 |  |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Nilakshi15/Leetcode/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nilakshi15/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Nilakshi15/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0837-new-21-game](https://github.com/Nilakshi15/Leetcode/tree/master/0837-new-21-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Nilakshi15/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Matrix
 |  |
@@ -579,4 +582,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Nilakshi15/Leetcode/tree/master/0678-valid-parenthesis-string) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0837-new-21-game](https://github.com/Nilakshi15/Leetcode/tree/master/0837-new-21-game) |
 <!---LeetCode Topics End-->
