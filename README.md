@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Nilakshi15/Leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Nilakshi15/Leetcode/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nilakshi15/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0231-power-of-two](https://github.com/Nilakshi15/Leetcode/tree/master/0231-power-of-two) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Nilakshi15/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0837-new-21-game](https://github.com/Nilakshi15/Leetcode/tree/master/0837-new-21-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Nilakshi15/Leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Nilakshi15/Leetcode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Nilakshi15/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Nilakshi15/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Nilakshi15/Leetcode/tree/master/0231-power-of-two) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -530,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Nilakshi15/Leetcode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/Nilakshi15/Leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Nilakshi15/Leetcode/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/Nilakshi15/Leetcode/tree/master/0231-power-of-two) |
 ## Union-Find
 |  |
 | ------- |
