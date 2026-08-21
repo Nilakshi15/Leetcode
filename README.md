@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-swap-adjacent-in-lr-string](https://github.com/Nilakshi15/Leetcode/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0809-expressive-words](https://github.com/Nilakshi15/Leetcode/tree/master/0809-expressive-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/Nilakshi15/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/Nilakshi15/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0981-time-based-key-value-store](https://github.com/Nilakshi15/Leetcode/tree/master/0981-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/Nilakshi15/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Stack
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/Nilakshi15/Leetcode/tree/master/0763-partition-labels) |
 | [0826-most-profit-assigning-work](https://github.com/Nilakshi15/Leetcode/tree/master/0826-most-profit-assigning-work) |
 | [0954-array-of-doubled-pairs](https://github.com/Nilakshi15/Leetcode/tree/master/0954-array-of-doubled-pairs) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/Nilakshi15/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Nilakshi15/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Nilakshi15/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0954-array-of-doubled-pairs](https://github.com/Nilakshi15/Leetcode/tree/master/0954-array-of-doubled-pairs) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/Nilakshi15/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/Nilakshi15/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Nilakshi15/Leetcode/tree/master/1046-last-stone-weight) |
 ## Sorting
