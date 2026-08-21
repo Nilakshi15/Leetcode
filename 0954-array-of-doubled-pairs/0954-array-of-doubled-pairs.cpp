@@ -1,0 +1,29 @@
+class Solution {
+public:
+    bool canReorderDoubled(vector<int>& arr) {
+
+        unordered_map<int, int> freq;
+
+        for (int x : arr)
+            freq[x]++;
+
+        sort(arr.begin(), arr.end(),
+             [](int a, int b) {
+                 return abs(a) < abs(b);
+             });
+
+        for (int x : arr) {
+
+            if (freq[x] == 0)
+                continue;
+
+            if (freq[2 * x] == 0)
+                return false;
+
+            freq[x]--;
+            freq[2 * x]--;
+        }
+
+        return true;
+    }
+};
