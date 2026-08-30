@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Nilakshi15/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Nilakshi15/Leetcode/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/Nilakshi15/Leetcode/tree/master/0221-maximal-square) |
+| [0233-number-of-digit-one](https://github.com/Nilakshi15/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Nilakshi15/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Nilakshi15/Leetcode/tree/master/0322-coin-change) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Nilakshi15/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Nilakshi15/Leetcode/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nilakshi15/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/Nilakshi15/Leetcode/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/Nilakshi15/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Nilakshi15/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0837-new-21-game](https://github.com/Nilakshi15/Leetcode/tree/master/0837-new-21-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Nilakshi15/Leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Nilakshi15/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Nilakshi15/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Nilakshi15/Leetcode/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/Nilakshi15/Leetcode/tree/master/0233-number-of-digit-one) |
 ## Doubly-Linked List
 |  |
 | ------- |
