@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Nilakshi15/Leetcode/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Nilakshi15/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0649-dota2-senate](https://github.com/Nilakshi15/Leetcode/tree/master/0649-dota2-senate) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/Nilakshi15/Leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0678-valid-parenthesis-string](https://github.com/Nilakshi15/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Nilakshi15/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0763-partition-labels](https://github.com/Nilakshi15/Leetcode/tree/master/0763-partition-labels) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Nilakshi15/Leetcode/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/Nilakshi15/Leetcode/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Nilakshi15/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/Nilakshi15/Leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Nilakshi15/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/Nilakshi15/Leetcode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/Nilakshi15/Leetcode/tree/master/0704-binary-search) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nilakshi15/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Nilakshi15/Leetcode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Nilakshi15/Leetcode/tree/master/0621-task-scheduler) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/Nilakshi15/Leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0763-partition-labels](https://github.com/Nilakshi15/Leetcode/tree/master/0763-partition-labels) |
 | [0904-fruit-into-baskets](https://github.com/Nilakshi15/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0954-array-of-doubled-pairs](https://github.com/Nilakshi15/Leetcode/tree/master/0954-array-of-doubled-pairs) |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Nilakshi15/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/Nilakshi15/Leetcode/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/Nilakshi15/Leetcode/tree/master/0621-task-scheduler) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/Nilakshi15/Leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nilakshi15/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/Nilakshi15/Leetcode/tree/master/0743-network-delay-time) |
 | [0973-k-closest-points-to-origin](https://github.com/Nilakshi15/Leetcode/tree/master/0973-k-closest-points-to-origin) |
