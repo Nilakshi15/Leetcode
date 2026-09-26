@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Nilakshi15/Leetcode/tree/master/0322-coin-change) |
 | [0330-patching-array](https://github.com/Nilakshi15/Leetcode/tree/master/0330-patching-array) |
 | [0376-wiggle-subsequence](https://github.com/Nilakshi15/Leetcode/tree/master/0376-wiggle-subsequence) |
+| [0396-rotate-function](https://github.com/Nilakshi15/Leetcode/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/Nilakshi15/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Nilakshi15/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Nilakshi15/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Nilakshi15/Leetcode/tree/master/0322-coin-change) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Nilakshi15/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0376-wiggle-subsequence](https://github.com/Nilakshi15/Leetcode/tree/master/0376-wiggle-subsequence) |
+| [0396-rotate-function](https://github.com/Nilakshi15/Leetcode/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/Nilakshi15/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Nilakshi15/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Nilakshi15/Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Nilakshi15/Leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/Nilakshi15/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Nilakshi15/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0396-rotate-function](https://github.com/Nilakshi15/Leetcode/tree/master/0396-rotate-function) |
 | [0837-new-21-game](https://github.com/Nilakshi15/Leetcode/tree/master/0837-new-21-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Nilakshi15/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Matrix
