@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Nilakshi15/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Nilakshi15/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0494-target-sum](https://github.com/Nilakshi15/Leetcode/tree/master/0494-target-sum) |
+| [0526-beautiful-arrangement](https://github.com/Nilakshi15/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0561-array-partition](https://github.com/Nilakshi15/Leetcode/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/Nilakshi15/Leetcode/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Nilakshi15/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Nilakshi15/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Nilakshi15/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Nilakshi15/Leetcode/tree/master/0494-target-sum) |
+| [0526-beautiful-arrangement](https://github.com/Nilakshi15/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Nilakshi15/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/Nilakshi15/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Nilakshi15/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -541,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0306-additive-number](https://github.com/Nilakshi15/Leetcode/tree/master/0306-additive-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Nilakshi15/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0494-target-sum](https://github.com/Nilakshi15/Leetcode/tree/master/0494-target-sum) |
+| [0526-beautiful-arrangement](https://github.com/Nilakshi15/Leetcode/tree/master/0526-beautiful-arrangement) |
 ## Data Stream
 |  |
 | ------- |
@@ -562,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Nilakshi15/Leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Nilakshi15/Leetcode/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/Nilakshi15/Leetcode/tree/master/0231-power-of-two) |
+| [0526-beautiful-arrangement](https://github.com/Nilakshi15/Leetcode/tree/master/0526-beautiful-arrangement) |
 ## Union-Find
 |  |
 | ------- |
@@ -632,4 +636,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Nilakshi15/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+## Bitmask
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/Nilakshi15/Leetcode/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->
