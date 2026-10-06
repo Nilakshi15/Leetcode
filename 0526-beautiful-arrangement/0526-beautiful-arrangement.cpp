@@ -1,25 +1,24 @@
 class Solution {
 public:
-    int count = 0;
+    int ans = 0;
 
     void solve(int pos, int n, vector<bool>& used) {
 
         // All positions are filled
         if (pos > n) {
-            count++;
+            ans++;
             return;
         }
 
-        // Try every number
         for (int num = 1; num <= n; num++) {
 
-            // Number is unused and satisfies the condition
+            // Number should not be used
+            // and should satisfy the condition
             if (!used[num] &&
                 (num % pos == 0 || pos % num == 0)) {
 
                 used[num] = true;
 
-                // Fill next position
                 solve(pos + 1, n, used);
 
                 // Backtrack
@@ -33,6 +32,6 @@ public:
 
         solve(1, n, used);
 
-        return count;
+        return ans;
     }
 };
