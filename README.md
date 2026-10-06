@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Nilakshi15/Leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nilakshi15/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nilakshi15/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0516-longest-palindromic-subsequence](https://github.com/Nilakshi15/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/Nilakshi15/Leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Nilakshi15/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0649-dota2-senate](https://github.com/Nilakshi15/Leetcode/tree/master/0649-dota2-senate) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Nilakshi15/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Nilakshi15/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Nilakshi15/Leetcode/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/Nilakshi15/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0526-beautiful-arrangement](https://github.com/Nilakshi15/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/Nilakshi15/Leetcode/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Nilakshi15/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
